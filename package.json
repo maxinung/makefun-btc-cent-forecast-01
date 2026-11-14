@@ -1,0 +1,12 @@
+{
+  "name": "btc-cent-forecast-01",
+  "version": "1.0.0",
+  "description": "BTC 4-hour ahead quantile forecaster for make.fun",
+  "main": "main.ts",
+  "scripts": {
+    "test": "node --test main.ts"
+  },
+  "keywords": ["makefun", "forecasting", "btc"],
+  "license": "MIT",
+  "type": "module"
+}
